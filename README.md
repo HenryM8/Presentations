@@ -33,7 +33,7 @@ Si decides utilizar este material, te pedimos que atribuyas la autoría correcta
 ```plaintext
 /
 ├── Contraseñas-Gestión-y-Prevención-de-Amenazas.mp4
-├── Estafas-Telefonicas-o-Por-Correo.mp4
+├── Estafas-Telefónicas-o-Por-Correo.mp4
 ├── Tecnología-Para-El-Bienestar-Comunitario.mp4
 ├── README.md
 ```
